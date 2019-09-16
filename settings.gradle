@@ -1,0 +1,2 @@
+include ':app', ':selectmenu'
+rootProject.name='SelectMenu'
