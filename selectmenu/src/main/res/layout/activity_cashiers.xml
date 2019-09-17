@@ -16,8 +16,7 @@
         android:id="@+id/cashiers"
         android:numColumns="3"
         android:columnWidth="200dp"
-        android:stretchMode="columnWidth"
-        >
+        android:stretchMode="columnWidth">
 
     </GridView>
 

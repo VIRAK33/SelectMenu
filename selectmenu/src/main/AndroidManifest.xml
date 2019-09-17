@@ -1,2 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.selectmenu" />
+package="com.selectmenu">
+    <application>
+        <activity android:name=".SelectMenu"/>
+    </application>
+
+</manifest>
